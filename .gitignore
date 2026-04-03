@@ -1,0 +1,23 @@
+# Binaries
+main
+main.exe
+*.exe
+
+# Dependencies
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.test
+coverage.out
+
+./AGENTS.md
