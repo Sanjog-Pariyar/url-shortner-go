@@ -20,4 +20,4 @@ Thumbs.db
 *.test
 coverage.out
 
-./AGENTS.md
+AGENTS.md
